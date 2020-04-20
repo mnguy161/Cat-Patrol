@@ -17,5 +17,6 @@ game.settings = {
 //reserve keyboard vars
 let keyF, keyLEFT, keyRIGHT;
 let mouseClick; 
-let highScore = 0;  
+let mouseX, mouseY;
+let bonus = 0; 
 
